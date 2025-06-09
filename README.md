@@ -95,12 +95,6 @@ Using correlation matrices and Variance Inflation Factor (VIF).
 
 ---
 
-## 🔗 Submission
-
-> **GitHub Repository Link**: [Your Repo Link Here]  
-> **Submission Form**: [Submit Here](https://forms.gle/dF1EVUnqz2rQr2xu8)
-
----
 
 ## 🙌 Acknowledgements
 
